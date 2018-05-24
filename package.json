@@ -1,0 +1,23 @@
+{
+  "name": "@commonality/schemas",
+  "version": "1.0.0",
+  "description":
+    "Data structures and specifications that fulfill various software maturity models.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commonality/schemas.git"
+  },
+  "author": "commonality",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commonality/schemas/issues"
+  },
+  "homepage": "https://github.com/commonality/schemas#readme"
+}
